@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohithowlader
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and cloud
 - 🌱 I’m currently learning various new technologies 
 - 💞️ I’m looking to collaborate on new intresting projects
 - 📫 Reach me through email at rohithowlader2017@gmail.com
